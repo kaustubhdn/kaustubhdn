@@ -1,6 +1,6 @@
 ### Hello there 👋
 ## I'm Kaustubh Nichit
-
+I am a dedicated coding enthusiast currently pursuing a B.Tech in Information Technology at SRCOEM. My passion lies in the field of Natural Language Processing (NLP), where I explore the fascinating intersection of language and technology. As an intermediate problem solver in Data Structures and Algorithms (DSA), I thrive on tackling complex challenges and finding efficient solutions. In addition to my tech pursuits, I have a keen interest in video editing, utilizing my creativity to seamlessly blend audio, visuals, and effects for captivating content.
 <!--
 **kaustubhdn/kaustubhdn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
